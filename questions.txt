@@ -1,0 +1,27 @@
+Question?|a) Option1|b) Option2|c) Option3|d) Option4|correct_option_letter
+Which command is used to list files in Linux?|a) list|b) ls|c) show|d) dir|b
+Which of these is a version control system?|a) Git|b) Docker|c) Jenkins|d) Kubernetes|a
+What does CPU stand for?|a) Central Process Unit|b) Computer Personal Unit|c) Central Processing Unit|d) Central Peripheral Unit|c
+Which command shows current directory?|a) pwd|b) dir|c) path|d) cd|a
+Linux is based on which kernel?|a) Unix|b) Windows|c) MacOS|d) None|a
+
+Which command is used to display the contents of a file?|a) read|b) cat|c) open|d) file|b
+Which command is used to create a new directory?|a) makedir|b) newdir|c) mkdir|d) createdir|c
+Which command removes a file in Linux?|a) delete|b) erase|c) rm|d) remove|c
+Which command is used to change file permissions?|a) chmod|b) chown|c) permit|d) access|a
+Which command is used to move or rename files?|a) cp|b) mv|c) rn|d) move|b
+Which symbol is used to run a command in the background?|a) @|b) &|c) %|d) #|b
+Which command displays the current logged-in users?|a) whoami|b) who|c) users|d) uname|b
+Which command displays disk usage of files and directories?|a) du|b) df|c) ls|d) usage|a
+Which command displays running processes?|a) jobs|b) ps|c) top|d) run|b
+Which command clears the terminal screen?|a) clear|b) cls|c) wipe|d) reset|a
+Which command shows the manual page for a Linux command?|a) help|b) info|c) man|d) doc|c
+Which command is used to copy files?|a) cp|b) copy|c) mv|d) dup|a
+Which command displays the path of the current working directory?|a) dir|b) where|c) pwd|d) path|c
+Which command is used to display the first few lines of a file?|a) start|b) top|c) head|d) first|c
+Which command is used to display the last few lines of a file?|a) tail|b) end|c) bottom|d) last|a
+Which command shows the network configuration of your system?|a) ipconfig|b) ifconfig|c) netstat|d) route|b
+Which file stores user account information in Linux?|a) /etc/passwd|b) /etc/users|c) /home/users|d) /root/passwd|a
+Which directory typically contains user home directories?|a) /usr|b) /root|c) /home|d) /bin|c
+Which command prints text to the terminal?|a) print|b) echo|c) say|d) out|b
+Which command shows system date and time?|a) date|b) time|c) datetime|d) clock|a
