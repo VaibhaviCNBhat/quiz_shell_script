@@ -16,6 +16,8 @@ $chmod +x quiz.sh
 To run the script
 $./quiz.sh
 
+Below is the flow of the events in quiz_shell_script
+
 
                   ┌────────────────────────┐
                   │ Start the Script       │
