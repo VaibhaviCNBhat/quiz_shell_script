@@ -4,13 +4,11 @@ score=0
 qno=0
 question_file="questions.txt"
 
-# Check if file exists
 if [ ! -f "$question_file" ]; then
     echo "Error: File not found!" 
     exit 1
 fi
 
-# Count total questions (excluding header)
 total_questions=$(($(grep -cv '^$' "$question_file") - 1))
 echo "        Welcome to your terminal quiz session        " 
 echo
@@ -50,7 +48,6 @@ do
     sleep 1.5 
 done < "$question_file"
 
-# Display final score
 echo
 echo " Quiz Completed!"
 echo " Final Score: $score / $total_questions"
